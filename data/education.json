@@ -1,14 +1,14 @@
 [
     {
         "school": "State Vocational High School 4 Semarang",
-		"logo": "",
+		"logo": "images/smk-logo.jpg",
         "major": "Industrial Electronics Engineering",
         "year": "2019 - 2022",
         "description": "-"
     },
 	{
         "university": "Polytechnic State of Semarang",
-		"logo": "",
+		"logo": "images/polines-logo.png",
         "major": "Diploma in Electronics Engineering",
         "year": "2022 - 2025",
         "description": "-"
