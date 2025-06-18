@@ -1,16 +1,16 @@
 [
     {
-        "school": "State Vocational High School 4 Semarang",
+        "university": "State Vocational High School 4 Semarang",
 		"logo": "images/smk-logo.jpg",
         "major": "Industrial Electronics Engineering",
         "year": "2019 - 2022",
-        "description": "-"
+        "description": "When I was studying at State Vocational High School 4 Semarang, I joined the Youth Red Cross extracurricular activity. I had the opportunity to serve as a committee member for a blood donation event, attend seminars, and represent my school in the Semarang city-wide Youth Red Cross organization. I also took a professional certification test in the field of pneumatics."
     },
 	{
         "university": "Polytechnic State of Semarang",
 		"logo": "images/polines-logo.png",
         "major": "Diploma in Electronics Engineering",
         "year": "2022 - 2025",
-        "description": "-"
+        "description": "During my studies at Polytechnic State of Semarang, I joined the student activity unit called the Polytechnic Computer Club. I gained experience by participating in the Goes to Public program and served as the club's treasurer. I was also a recipient of the Indonesia Smart Card for College (KIP-K) scholarship program."
     }
 ]

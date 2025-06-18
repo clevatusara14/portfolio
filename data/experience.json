@@ -1,14 +1,14 @@
 [
     {
         "company": "PT Telkom Property",
-		"logo":"",
+		"logo":"images/telkom-logo.jpeg",
         "position": "Mechanical Engineering",
         "year": "2020",
         "description": "As a Internship in Mechanical Engineering, I help with work in the mechanical engineering department, such as servicing air conditioners, checking elevators and fire safety equipment periodically, and heating the generator set every week."
     },
 	{
         "company": "PT Xentronic Inovasi Indonesia",
-		"logo":"",
+		"logo":"images/xentronic-logo.jpg",
         "position": "Technician",
         "year": "2024",
         "description": "As a Internship in Medical Equipment Technician, I assist in the production of batteries for medical devices, help repair medical equipment when there are orders from customers online, and visit hospitals if there is medical equipment that needs to be repaired."
